@@ -26,8 +26,8 @@ body {
   height: 200px;
   background-color: green;
   position:absolute;
-  /* top: 15%;
-  left: 15%; */
+  top: 50px;
+  left: 50px;
 }
 
 .four {
@@ -35,6 +35,6 @@ body {
   height: 100px;
   background-color: blue;
   position:absolute;
-  /* top: 25%;
-  left: 25%; */
+  top: 50px;
+  left: 50px;
 }
